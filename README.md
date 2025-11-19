@@ -1,7 +1,9 @@
 # Thmanyah Assignment
 
-![Thmanyah Assignment](https://github.com/anas-js/thmanyah-assignment/blob/main/og.png?raw=true)  
+![Thmanyah Assignment](./og.mp4)  
 
 
 ## Project Overview
 This project, **Thmanyah Assignment**, is designed to demonstrate my skills in Front End.
+
+[Watch Video](./privew.mp4)
