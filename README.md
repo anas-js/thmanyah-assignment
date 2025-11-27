@@ -55,4 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Thmanyah ✦ Anas Alanzi
 
+![Thmanyah ✦ Anas Alanzi](https://thmanyah.anas.juzr.sa/og.png)  
+
 Check out another one of my works in the "Thmanyah" «["Thmanyah ✦ Anas Alanzi"](https://thmanyah.anas.juzr.sa/)» style.
+
