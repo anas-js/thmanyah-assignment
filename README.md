@@ -53,7 +53,7 @@ To get the project up and running, follow these steps:
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Thmanyah ✦ Anas Alanzi
+# Thmanyah ✦ Anas Alanzi
 
 ![Thmanyah ✦ Anas Alanzi](https://thmanyah.anas.juzr.sa/og.png)  
 
