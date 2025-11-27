@@ -38,7 +38,7 @@ export default function SearchBox() {
   }
 
   return (
-    <div className="fixed top-6 bg-secondary  md:w-6/12 sm:w-1/2 flex p-4 text-white gap-2 items-center box-border rounded-full">
+    <div className="bg-secondary w-full  sm:w-1/2 flex p-4 text-white gap-2 items-center box-border rounded-full">
       <i className="iconoir-search text-2xl"></i>
       <input
         className="bg-transparent outline-none w-full placeholder-white"
