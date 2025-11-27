@@ -44,7 +44,7 @@ const SideBar = forwardRef<SideBarHandle>((props, ref) => {
         </ul>
         <button
           onClick={toggle}
-          className="flex gap-2 items-center text-white mt-6">
+          className="gap-2 items-center text-white mt-6 flex sm:hidden">
           <i className="iconoir-xmark text-2xl"></i>إغلاق
         </button>
       </div>
